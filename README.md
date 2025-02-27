@@ -5,11 +5,13 @@
 
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 
-    Customer satisfaction and trust: It ensures that clients get their product on time which builds trust and satisfaction.
+    Customer Satisfaction and Trust: Timely delivery ensures clients receive the product as expected, building trust and satisfaction, while delays can lead to frustration and lost business.
 
-    Budget and resourse efficiency: Delivering the project on time keeps it within the budget and allows for efficient use of resources.
+    Competitive Edge and Reputation: Meeting deadlines provides a competitive advantage and enhances the organization's reputation for reliability, leading to more opportunities.
 
-    Enhances effective communication and planning: Clear requirements, realistic timelines, and regular communication with stakeholders help prevent scope creep and address issues early.
+    Budget and Resource Efficiency: Delays increase costs and disrupt resource allocation. On-time delivery keeps projects within budget and allows efficient use of resources.
+
+    Effective Planning and Communication: Clear requirements, realistic timelines, and regular communication with stakeholders help prevent scope creep and address issues early.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
